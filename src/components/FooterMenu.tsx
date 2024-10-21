@@ -10,7 +10,7 @@ const FooterMenu = () => (
       <div className="row">
         <div className="col-md-4">
           <h5>NAVIGATION</h5>
-          <hr></hr>
+          <hr />
           <ul className="list-unstyled">
             <li><button type="button" className="btn btn-link text-white p-0">About Us</button></li>
             <li><button type="button" className="btn btn-link text-white p-0">Employment</button></li>
